@@ -16,6 +16,7 @@ Beyond coding, I actively work on technical articles and have knowledge of VPN t
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 # 🔓 Security Skills:
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![HTTP Debugger](https://img.shields.io/badge/HTTP_Debugger-0096D6?style=for-the-badge&logo=internet-explorer&logoColor=white)
 
 # 🌱 Learning Stack:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
